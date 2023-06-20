@@ -1,0 +1,367 @@
+C:\Users\user\Desktop\Thực tập nhóm\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\WebsiteTruyenOnline.dll.config
+C:\Users\user\Desktop\Thực tập nhóm\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\WebsiteTruyenOnline.dll
+C:\Users\user\Desktop\Thực tập nhóm\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\WebsiteTruyenOnline.pdb
+C:\Users\user\Desktop\Thực tập nhóm\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\csc.exe
+C:\Users\user\Desktop\Thực tập nhóm\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\csc.exe.config
+C:\Users\user\Desktop\Thực tập nhóm\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\csc.rsp
+C:\Users\user\Desktop\Thực tập nhóm\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\csi.exe
+C:\Users\user\Desktop\Thực tập nhóm\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\csi.exe.config
+C:\Users\user\Desktop\Thực tập nhóm\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\csi.rsp
+C:\Users\user\Desktop\Thực tập nhóm\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\user\Desktop\Thực tập nhóm\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user\Desktop\Thực tập nhóm\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\user\Desktop\Thực tập nhóm\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\user\Desktop\Thực tập nhóm\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\user\Desktop\Thực tập nhóm\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\user\Desktop\Thực tập nhóm\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\user\Desktop\Thực tập nhóm\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\user\Desktop\Thực tập nhóm\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\user\Desktop\Thực tập nhóm\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\user\Desktop\Thực tập nhóm\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\user\Desktop\Thực tập nhóm\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\user\Desktop\Thực tập nhóm\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\System.AppContext.dll
+C:\Users\user\Desktop\Thực tập nhóm\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\user\Desktop\Thực tập nhóm\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\System.Console.dll
+C:\Users\user\Desktop\Thực tập nhóm\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user\Desktop\Thực tập nhóm\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\user\Desktop\Thực tập nhóm\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\user\Desktop\Thực tập nhóm\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\user\Desktop\Thực tập nhóm\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\System.IO.Compression.dll
+C:\Users\user\Desktop\Thực tập nhóm\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\user\Desktop\Thực tập nhóm\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\user\Desktop\Thực tập nhóm\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\user\Desktop\Thực tập nhóm\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\System.Net.Http.dll
+C:\Users\user\Desktop\Thực tập nhóm\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\System.Net.Sockets.dll
+C:\Users\user\Desktop\Thực tập nhóm\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\user\Desktop\Thực tập nhóm\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\user\Desktop\Thực tập nhóm\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\user\Desktop\Thực tập nhóm\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\user\Desktop\Thực tập nhóm\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\user\Desktop\Thực tập nhóm\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\user\Desktop\Thực tập nhóm\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\user\Desktop\Thực tập nhóm\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\user\Desktop\Thực tập nhóm\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\System.ValueTuple.dll
+C:\Users\user\Desktop\Thực tập nhóm\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\user\Desktop\Thực tập nhóm\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\user\Desktop\Thực tập nhóm\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\System.Xml.XPath.dll
+C:\Users\user\Desktop\Thực tập nhóm\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\user\Desktop\Thực tập nhóm\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\vbc.exe
+C:\Users\user\Desktop\Thực tập nhóm\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\vbc.exe.config
+C:\Users\user\Desktop\Thực tập nhóm\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\vbc.rsp
+C:\Users\user\Desktop\Thực tập nhóm\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\VBCSCompiler.exe
+C:\Users\user\Desktop\Thực tập nhóm\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\user\Desktop\Thực tập nhóm\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\Antlr3.Runtime.dll
+C:\Users\user\Desktop\Thực tập nhóm\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\user\Desktop\Thực tập nhóm\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\user\Desktop\Thực tập nhóm\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\Model.dll
+C:\Users\user\Desktop\Thực tập nhóm\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\Newtonsoft.Json.dll
+C:\Users\user\Desktop\Thực tập nhóm\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\System.Web.Helpers.dll
+C:\Users\user\Desktop\Thực tập nhóm\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\System.Web.Mvc.dll
+C:\Users\user\Desktop\Thực tập nhóm\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\System.Web.Optimization.dll
+C:\Users\user\Desktop\Thực tập nhóm\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\System.Web.Razor.dll
+C:\Users\user\Desktop\Thực tập nhóm\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\System.Web.WebPages.Deployment.dll
+C:\Users\user\Desktop\Thực tập nhóm\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\System.Web.WebPages.dll
+C:\Users\user\Desktop\Thực tập nhóm\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\System.Web.WebPages.Razor.dll
+C:\Users\user\Desktop\Thực tập nhóm\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\WebGrease.dll
+C:\Users\user\Desktop\Thực tập nhóm\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\EntityFramework.dll
+C:\Users\user\Desktop\Thực tập nhóm\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\Model.pdb
+C:\Users\user\Desktop\Thực tập nhóm\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\Model.dll.config
+C:\Users\user\Desktop\Thực tập nhóm\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\System.Web.Helpers.xml
+C:\Users\user\Desktop\Thực tập nhóm\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\System.Web.Mvc.xml
+C:\Users\user\Desktop\Thực tập nhóm\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\System.Web.Optimization.xml
+C:\Users\user\Desktop\Thực tập nhóm\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\System.Web.Razor.xml
+C:\Users\user\Desktop\Thực tập nhóm\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\System.Web.WebPages.xml
+C:\Users\user\Desktop\Thực tập nhóm\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\System.Web.WebPages.Deployment.xml
+C:\Users\user\Desktop\Thực tập nhóm\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\System.Web.WebPages.Razor.xml
+C:\Users\user\Desktop\Thực tập nhóm\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\Newtonsoft.Json.xml
+C:\Users\user\Desktop\Thực tập nhóm\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\Antlr3.Runtime.pdb
+C:\Users\user\Desktop\Thực tập nhóm\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\user\Desktop\Thực tập nhóm\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\EntityFramework.xml
+C:\Users\user\Desktop\Thực tập nhóm\WebsiteTruyenOnline\WebsiteTruyenOnline\obj\Debug\WebsiteTruyenOnline.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Thực tập nhóm\WebsiteTruyenOnline\WebsiteTruyenOnline\obj\Debug\WebsiteTruyenOnline.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Thực tập nhóm\WebsiteTruyenOnline\WebsiteTruyenOnline\obj\Debug\WebsiteTruyenOnline.csproj.CopyComplete
+C:\Users\user\Desktop\Thực tập nhóm\WebsiteTruyenOnline\WebsiteTruyenOnline\obj\Debug\WebsiteTruyenOnline.dll
+C:\Users\user\Desktop\Thực tập nhóm\WebsiteTruyenOnline\WebsiteTruyenOnline\obj\Debug\WebsiteTruyenOnline.pdb
+C:\Users\user\Desktop\Thực tập nhóm\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\EntityFramework.SqlServer.dll
+C:\Users\user\Desktop\Thực tập nhóm\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\EntityFramework.SqlServer.xml
+C:\Users\user\Desktop\Thực tập nhóm\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\PagedList.dll
+C:\Users\user\Desktop\Thực tập nhóm\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\PagedList.Mvc.dll
+C:\Users\user\Desktop\Thực tập nhóm\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\PagedList.xml
+C:\Users\user\Desktop\Thực tập nhóm\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\PagedList.Mvc.xml
+C:\Users\user\Desktop\Thực tập nhóm\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\user\Desktop\Thực tập nhóm\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Dinh Duc Hoan\Desktop\Thực tập nhóm\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\WebsiteTruyenOnline.dll.config
+C:\Users\Dinh Duc Hoan\Desktop\Thực tập nhóm\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\WebsiteTruyenOnline.dll
+C:\Users\Dinh Duc Hoan\Desktop\Thực tập nhóm\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\WebsiteTruyenOnline.pdb
+C:\Users\Dinh Duc Hoan\Desktop\Thực tập nhóm\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\csc.exe
+C:\Users\Dinh Duc Hoan\Desktop\Thực tập nhóm\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\csc.exe.config
+C:\Users\Dinh Duc Hoan\Desktop\Thực tập nhóm\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\csc.rsp
+C:\Users\Dinh Duc Hoan\Desktop\Thực tập nhóm\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\csi.exe
+C:\Users\Dinh Duc Hoan\Desktop\Thực tập nhóm\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\csi.exe.config
+C:\Users\Dinh Duc Hoan\Desktop\Thực tập nhóm\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\csi.rsp
+C:\Users\Dinh Duc Hoan\Desktop\Thực tập nhóm\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Dinh Duc Hoan\Desktop\Thực tập nhóm\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Dinh Duc Hoan\Desktop\Thực tập nhóm\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Dinh Duc Hoan\Desktop\Thực tập nhóm\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Dinh Duc Hoan\Desktop\Thực tập nhóm\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Dinh Duc Hoan\Desktop\Thực tập nhóm\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Dinh Duc Hoan\Desktop\Thực tập nhóm\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Dinh Duc Hoan\Desktop\Thực tập nhóm\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Dinh Duc Hoan\Desktop\Thực tập nhóm\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Dinh Duc Hoan\Desktop\Thực tập nhóm\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Dinh Duc Hoan\Desktop\Thực tập nhóm\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Dinh Duc Hoan\Desktop\Thực tập nhóm\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Dinh Duc Hoan\Desktop\Thực tập nhóm\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\System.AppContext.dll
+C:\Users\Dinh Duc Hoan\Desktop\Thực tập nhóm\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Dinh Duc Hoan\Desktop\Thực tập nhóm\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\System.Console.dll
+C:\Users\Dinh Duc Hoan\Desktop\Thực tập nhóm\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Dinh Duc Hoan\Desktop\Thực tập nhóm\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Dinh Duc Hoan\Desktop\Thực tập nhóm\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Dinh Duc Hoan\Desktop\Thực tập nhóm\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Dinh Duc Hoan\Desktop\Thực tập nhóm\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\System.IO.Compression.dll
+C:\Users\Dinh Duc Hoan\Desktop\Thực tập nhóm\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Dinh Duc Hoan\Desktop\Thực tập nhóm\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Dinh Duc Hoan\Desktop\Thực tập nhóm\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Dinh Duc Hoan\Desktop\Thực tập nhóm\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\System.Net.Http.dll
+C:\Users\Dinh Duc Hoan\Desktop\Thực tập nhóm\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Dinh Duc Hoan\Desktop\Thực tập nhóm\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Dinh Duc Hoan\Desktop\Thực tập nhóm\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Dinh Duc Hoan\Desktop\Thực tập nhóm\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Dinh Duc Hoan\Desktop\Thực tập nhóm\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Dinh Duc Hoan\Desktop\Thực tập nhóm\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Dinh Duc Hoan\Desktop\Thực tập nhóm\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Dinh Duc Hoan\Desktop\Thực tập nhóm\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Dinh Duc Hoan\Desktop\Thực tập nhóm\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Dinh Duc Hoan\Desktop\Thực tập nhóm\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\System.ValueTuple.dll
+C:\Users\Dinh Duc Hoan\Desktop\Thực tập nhóm\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Dinh Duc Hoan\Desktop\Thực tập nhóm\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Dinh Duc Hoan\Desktop\Thực tập nhóm\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Dinh Duc Hoan\Desktop\Thực tập nhóm\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Dinh Duc Hoan\Desktop\Thực tập nhóm\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\vbc.exe
+C:\Users\Dinh Duc Hoan\Desktop\Thực tập nhóm\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\vbc.exe.config
+C:\Users\Dinh Duc Hoan\Desktop\Thực tập nhóm\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\vbc.rsp
+C:\Users\Dinh Duc Hoan\Desktop\Thực tập nhóm\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\VBCSCompiler.exe
+C:\Users\Dinh Duc Hoan\Desktop\Thực tập nhóm\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Dinh Duc Hoan\Desktop\Thực tập nhóm\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\Antlr3.Runtime.dll
+C:\Users\Dinh Duc Hoan\Desktop\Thực tập nhóm\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\EntityFramework.dll
+C:\Users\Dinh Duc Hoan\Desktop\Thực tập nhóm\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\EntityFramework.SqlServer.dll
+C:\Users\Dinh Duc Hoan\Desktop\Thực tập nhóm\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Dinh Duc Hoan\Desktop\Thực tập nhóm\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Dinh Duc Hoan\Desktop\Thực tập nhóm\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\Model.dll
+C:\Users\Dinh Duc Hoan\Desktop\Thực tập nhóm\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\Newtonsoft.Json.dll
+C:\Users\Dinh Duc Hoan\Desktop\Thực tập nhóm\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\PagedList.dll
+C:\Users\Dinh Duc Hoan\Desktop\Thực tập nhóm\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\PagedList.Mvc.dll
+C:\Users\Dinh Duc Hoan\Desktop\Thực tập nhóm\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\System.Web.Helpers.dll
+C:\Users\Dinh Duc Hoan\Desktop\Thực tập nhóm\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\System.Web.Mvc.dll
+C:\Users\Dinh Duc Hoan\Desktop\Thực tập nhóm\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\System.Web.Optimization.dll
+C:\Users\Dinh Duc Hoan\Desktop\Thực tập nhóm\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\System.Web.Razor.dll
+C:\Users\Dinh Duc Hoan\Desktop\Thực tập nhóm\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Dinh Duc Hoan\Desktop\Thực tập nhóm\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\System.Web.WebPages.dll
+C:\Users\Dinh Duc Hoan\Desktop\Thực tập nhóm\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\System.Web.WebPages.Razor.dll
+C:\Users\Dinh Duc Hoan\Desktop\Thực tập nhóm\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\WebGrease.dll
+C:\Users\Dinh Duc Hoan\Desktop\Thực tập nhóm\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Dinh Duc Hoan\Desktop\Thực tập nhóm\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Dinh Duc Hoan\Desktop\Thực tập nhóm\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Dinh Duc Hoan\Desktop\Thực tập nhóm\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\Model.pdb
+C:\Users\Dinh Duc Hoan\Desktop\Thực tập nhóm\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\Model.dll.config
+C:\Users\Dinh Duc Hoan\Desktop\Thực tập nhóm\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\EntityFramework.xml
+C:\Users\Dinh Duc Hoan\Desktop\Thực tập nhóm\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\EntityFramework.SqlServer.xml
+C:\Users\Dinh Duc Hoan\Desktop\Thực tập nhóm\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\PagedList.xml
+C:\Users\Dinh Duc Hoan\Desktop\Thực tập nhóm\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\PagedList.Mvc.xml
+C:\Users\Dinh Duc Hoan\Desktop\Thực tập nhóm\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\System.Web.Helpers.xml
+C:\Users\Dinh Duc Hoan\Desktop\Thực tập nhóm\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\System.Web.Mvc.xml
+C:\Users\Dinh Duc Hoan\Desktop\Thực tập nhóm\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\System.Web.Optimization.xml
+C:\Users\Dinh Duc Hoan\Desktop\Thực tập nhóm\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\System.Web.Razor.xml
+C:\Users\Dinh Duc Hoan\Desktop\Thực tập nhóm\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\System.Web.WebPages.xml
+C:\Users\Dinh Duc Hoan\Desktop\Thực tập nhóm\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Dinh Duc Hoan\Desktop\Thực tập nhóm\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\System.Web.WebPages.Razor.xml
+C:\Users\Dinh Duc Hoan\Desktop\Thực tập nhóm\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\Newtonsoft.Json.xml
+C:\Users\Dinh Duc Hoan\Desktop\Thực tập nhóm\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\Antlr3.Runtime.pdb
+C:\Users\Dinh Duc Hoan\Desktop\Thực tập nhóm\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Dinh Duc Hoan\Desktop\Thực tập nhóm\WebsiteTruyenOnline\WebsiteTruyenOnline\obj\Debug\WebsiteTruyenOnline.csprojAssemblyReference.cache
+C:\Users\Dinh Duc Hoan\Desktop\Thực tập nhóm\WebsiteTruyenOnline\WebsiteTruyenOnline\obj\Debug\WebsiteTruyenOnline.csproj.CopyComplete
+C:\Users\Dinh Duc Hoan\Desktop\Thực tập nhóm\WebsiteTruyenOnline\WebsiteTruyenOnline\obj\Debug\WebsiteTruyenOnline.dll
+C:\Users\Dinh Duc Hoan\Desktop\Thực tập nhóm\WebsiteTruyenOnline\WebsiteTruyenOnline\obj\Debug\WebsiteTruyenOnline.pdb
+F:\2. Học kì 1 năm 4\Thực tập nhóm\Nhóm21.WEBSITEđọc truyệnonline_HTHùng_ĐĐHoàn\Code\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\WebsiteTruyenOnline.dll.config
+F:\2. Học kì 1 năm 4\Thực tập nhóm\Nhóm21.WEBSITEđọc truyệnonline_HTHùng_ĐĐHoàn\Code\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\WebsiteTruyenOnline.dll
+F:\2. Học kì 1 năm 4\Thực tập nhóm\Nhóm21.WEBSITEđọc truyệnonline_HTHùng_ĐĐHoàn\Code\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\WebsiteTruyenOnline.pdb
+F:\2. Học kì 1 năm 4\Thực tập nhóm\Nhóm21.WEBSITEđọc truyệnonline_HTHùng_ĐĐHoàn\Code\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\csc.exe
+F:\2. Học kì 1 năm 4\Thực tập nhóm\Nhóm21.WEBSITEđọc truyệnonline_HTHùng_ĐĐHoàn\Code\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\csc.exe.config
+F:\2. Học kì 1 năm 4\Thực tập nhóm\Nhóm21.WEBSITEđọc truyệnonline_HTHùng_ĐĐHoàn\Code\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\csc.rsp
+F:\2. Học kì 1 năm 4\Thực tập nhóm\Nhóm21.WEBSITEđọc truyệnonline_HTHùng_ĐĐHoàn\Code\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\csi.exe
+F:\2. Học kì 1 năm 4\Thực tập nhóm\Nhóm21.WEBSITEđọc truyệnonline_HTHùng_ĐĐHoàn\Code\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\csi.exe.config
+F:\2. Học kì 1 năm 4\Thực tập nhóm\Nhóm21.WEBSITEđọc truyệnonline_HTHùng_ĐĐHoàn\Code\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\csi.rsp
+F:\2. Học kì 1 năm 4\Thực tập nhóm\Nhóm21.WEBSITEđọc truyệnonline_HTHùng_ĐĐHoàn\Code\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\2. Học kì 1 năm 4\Thực tập nhóm\Nhóm21.WEBSITEđọc truyệnonline_HTHùng_ĐĐHoàn\Code\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\2. Học kì 1 năm 4\Thực tập nhóm\Nhóm21.WEBSITEđọc truyệnonline_HTHùng_ĐĐHoàn\Code\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\2. Học kì 1 năm 4\Thực tập nhóm\Nhóm21.WEBSITEđọc truyệnonline_HTHùng_ĐĐHoàn\Code\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\2. Học kì 1 năm 4\Thực tập nhóm\Nhóm21.WEBSITEđọc truyệnonline_HTHùng_ĐĐHoàn\Code\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\2. Học kì 1 năm 4\Thực tập nhóm\Nhóm21.WEBSITEđọc truyệnonline_HTHùng_ĐĐHoàn\Code\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\2. Học kì 1 năm 4\Thực tập nhóm\Nhóm21.WEBSITEđọc truyệnonline_HTHùng_ĐĐHoàn\Code\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\2. Học kì 1 năm 4\Thực tập nhóm\Nhóm21.WEBSITEđọc truyệnonline_HTHùng_ĐĐHoàn\Code\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\2. Học kì 1 năm 4\Thực tập nhóm\Nhóm21.WEBSITEđọc truyệnonline_HTHùng_ĐĐHoàn\Code\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\2. Học kì 1 năm 4\Thực tập nhóm\Nhóm21.WEBSITEđọc truyệnonline_HTHùng_ĐĐHoàn\Code\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\Microsoft.Managed.Core.targets
+F:\2. Học kì 1 năm 4\Thực tập nhóm\Nhóm21.WEBSITEđọc truyệnonline_HTHùng_ĐĐHoàn\Code\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\2. Học kì 1 năm 4\Thực tập nhóm\Nhóm21.WEBSITEđọc truyệnonline_HTHùng_ĐĐHoàn\Code\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\2. Học kì 1 năm 4\Thực tập nhóm\Nhóm21.WEBSITEđọc truyệnonline_HTHùng_ĐĐHoàn\Code\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\System.AppContext.dll
+F:\2. Học kì 1 năm 4\Thực tập nhóm\Nhóm21.WEBSITEđọc truyệnonline_HTHùng_ĐĐHoàn\Code\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\System.Collections.Immutable.dll
+F:\2. Học kì 1 năm 4\Thực tập nhóm\Nhóm21.WEBSITEđọc truyệnonline_HTHùng_ĐĐHoàn\Code\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\System.Console.dll
+F:\2. Học kì 1 năm 4\Thực tập nhóm\Nhóm21.WEBSITEđọc truyệnonline_HTHùng_ĐĐHoàn\Code\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\2. Học kì 1 năm 4\Thực tập nhóm\Nhóm21.WEBSITEđọc truyệnonline_HTHùng_ĐĐHoàn\Code\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\2. Học kì 1 năm 4\Thực tập nhóm\Nhóm21.WEBSITEđọc truyệnonline_HTHùng_ĐĐHoàn\Code\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\2. Học kì 1 năm 4\Thực tập nhóm\Nhóm21.WEBSITEđọc truyệnonline_HTHùng_ĐĐHoàn\Code\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\System.Globalization.Calendars.dll
+F:\2. Học kì 1 năm 4\Thực tập nhóm\Nhóm21.WEBSITEđọc truyệnonline_HTHùng_ĐĐHoàn\Code\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\System.IO.Compression.dll
+F:\2. Học kì 1 năm 4\Thực tập nhóm\Nhóm21.WEBSITEđọc truyệnonline_HTHùng_ĐĐHoàn\Code\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\2. Học kì 1 năm 4\Thực tập nhóm\Nhóm21.WEBSITEđọc truyệnonline_HTHùng_ĐĐHoàn\Code\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\System.IO.FileSystem.dll
+F:\2. Học kì 1 năm 4\Thực tập nhóm\Nhóm21.WEBSITEđọc truyệnonline_HTHùng_ĐĐHoàn\Code\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\2. Học kì 1 năm 4\Thực tập nhóm\Nhóm21.WEBSITEđọc truyệnonline_HTHùng_ĐĐHoàn\Code\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\System.Net.Http.dll
+F:\2. Học kì 1 năm 4\Thực tập nhóm\Nhóm21.WEBSITEđọc truyệnonline_HTHùng_ĐĐHoàn\Code\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\System.Net.Sockets.dll
+F:\2. Học kì 1 năm 4\Thực tập nhóm\Nhóm21.WEBSITEđọc truyệnonline_HTHùng_ĐĐHoàn\Code\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\System.Reflection.Metadata.dll
+F:\2. Học kì 1 năm 4\Thực tập nhóm\Nhóm21.WEBSITEđọc truyệnonline_HTHùng_ĐĐHoàn\Code\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\2. Học kì 1 năm 4\Thực tập nhóm\Nhóm21.WEBSITEđọc truyệnonline_HTHùng_ĐĐHoàn\Code\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\2. Học kì 1 năm 4\Thực tập nhóm\Nhóm21.WEBSITEđọc truyệnonline_HTHùng_ĐĐHoàn\Code\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\2. Học kì 1 năm 4\Thực tập nhóm\Nhóm21.WEBSITEđọc truyệnonline_HTHùng_ĐĐHoàn\Code\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\2. Học kì 1 năm 4\Thực tập nhóm\Nhóm21.WEBSITEđọc truyệnonline_HTHùng_ĐĐHoàn\Code\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\2. Học kì 1 năm 4\Thực tập nhóm\Nhóm21.WEBSITEđọc truyệnonline_HTHùng_ĐĐHoàn\Code\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\2. Học kì 1 năm 4\Thực tập nhóm\Nhóm21.WEBSITEđọc truyệnonline_HTHùng_ĐĐHoàn\Code\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\2. Học kì 1 năm 4\Thực tập nhóm\Nhóm21.WEBSITEđọc truyệnonline_HTHùng_ĐĐHoàn\Code\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\System.ValueTuple.dll
+F:\2. Học kì 1 năm 4\Thực tập nhóm\Nhóm21.WEBSITEđọc truyệnonline_HTHùng_ĐĐHoàn\Code\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\2. Học kì 1 năm 4\Thực tập nhóm\Nhóm21.WEBSITEđọc truyệnonline_HTHùng_ĐĐHoàn\Code\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\System.Xml.XmlDocument.dll
+F:\2. Học kì 1 năm 4\Thực tập nhóm\Nhóm21.WEBSITEđọc truyệnonline_HTHùng_ĐĐHoàn\Code\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\System.Xml.XPath.dll
+F:\2. Học kì 1 năm 4\Thực tập nhóm\Nhóm21.WEBSITEđọc truyệnonline_HTHùng_ĐĐHoàn\Code\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\2. Học kì 1 năm 4\Thực tập nhóm\Nhóm21.WEBSITEđọc truyệnonline_HTHùng_ĐĐHoàn\Code\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\vbc.exe
+F:\2. Học kì 1 năm 4\Thực tập nhóm\Nhóm21.WEBSITEđọc truyệnonline_HTHùng_ĐĐHoàn\Code\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\vbc.exe.config
+F:\2. Học kì 1 năm 4\Thực tập nhóm\Nhóm21.WEBSITEđọc truyệnonline_HTHùng_ĐĐHoàn\Code\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\vbc.rsp
+F:\2. Học kì 1 năm 4\Thực tập nhóm\Nhóm21.WEBSITEđọc truyệnonline_HTHùng_ĐĐHoàn\Code\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\VBCSCompiler.exe
+F:\2. Học kì 1 năm 4\Thực tập nhóm\Nhóm21.WEBSITEđọc truyệnonline_HTHùng_ĐĐHoàn\Code\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\VBCSCompiler.exe.config
+F:\2. Học kì 1 năm 4\Thực tập nhóm\Nhóm21.WEBSITEđọc truyệnonline_HTHùng_ĐĐHoàn\Code\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\Antlr3.Runtime.dll
+F:\2. Học kì 1 năm 4\Thực tập nhóm\Nhóm21.WEBSITEđọc truyệnonline_HTHùng_ĐĐHoàn\Code\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\EntityFramework.dll
+F:\2. Học kì 1 năm 4\Thực tập nhóm\Nhóm21.WEBSITEđọc truyệnonline_HTHùng_ĐĐHoàn\Code\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\EntityFramework.SqlServer.dll
+F:\2. Học kì 1 năm 4\Thực tập nhóm\Nhóm21.WEBSITEđọc truyệnonline_HTHùng_ĐĐHoàn\Code\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\2. Học kì 1 năm 4\Thực tập nhóm\Nhóm21.WEBSITEđọc truyệnonline_HTHùng_ĐĐHoàn\Code\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\Microsoft.Web.Infrastructure.dll
+F:\2. Học kì 1 năm 4\Thực tập nhóm\Nhóm21.WEBSITEđọc truyệnonline_HTHùng_ĐĐHoàn\Code\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\Model.dll
+F:\2. Học kì 1 năm 4\Thực tập nhóm\Nhóm21.WEBSITEđọc truyệnonline_HTHùng_ĐĐHoàn\Code\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\Newtonsoft.Json.dll
+F:\2. Học kì 1 năm 4\Thực tập nhóm\Nhóm21.WEBSITEđọc truyệnonline_HTHùng_ĐĐHoàn\Code\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\PagedList.dll
+F:\2. Học kì 1 năm 4\Thực tập nhóm\Nhóm21.WEBSITEđọc truyệnonline_HTHùng_ĐĐHoàn\Code\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\PagedList.Mvc.dll
+F:\2. Học kì 1 năm 4\Thực tập nhóm\Nhóm21.WEBSITEđọc truyệnonline_HTHùng_ĐĐHoàn\Code\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\System.Web.Helpers.dll
+F:\2. Học kì 1 năm 4\Thực tập nhóm\Nhóm21.WEBSITEđọc truyệnonline_HTHùng_ĐĐHoàn\Code\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\System.Web.Mvc.dll
+F:\2. Học kì 1 năm 4\Thực tập nhóm\Nhóm21.WEBSITEđọc truyệnonline_HTHùng_ĐĐHoàn\Code\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\System.Web.Optimization.dll
+F:\2. Học kì 1 năm 4\Thực tập nhóm\Nhóm21.WEBSITEđọc truyệnonline_HTHùng_ĐĐHoàn\Code\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\System.Web.Razor.dll
+F:\2. Học kì 1 năm 4\Thực tập nhóm\Nhóm21.WEBSITEđọc truyệnonline_HTHùng_ĐĐHoàn\Code\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\System.Web.WebPages.Deployment.dll
+F:\2. Học kì 1 năm 4\Thực tập nhóm\Nhóm21.WEBSITEđọc truyệnonline_HTHùng_ĐĐHoàn\Code\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\System.Web.WebPages.dll
+F:\2. Học kì 1 năm 4\Thực tập nhóm\Nhóm21.WEBSITEđọc truyệnonline_HTHùng_ĐĐHoàn\Code\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\System.Web.WebPages.Razor.dll
+F:\2. Học kì 1 năm 4\Thực tập nhóm\Nhóm21.WEBSITEđọc truyệnonline_HTHùng_ĐĐHoàn\Code\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\WebGrease.dll
+F:\2. Học kì 1 năm 4\Thực tập nhóm\Nhóm21.WEBSITEđọc truyệnonline_HTHùng_ĐĐHoàn\Code\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\Microsoft.Bcl.AsyncInterfaces.dll
+F:\2. Học kì 1 năm 4\Thực tập nhóm\Nhóm21.WEBSITEđọc truyệnonline_HTHùng_ĐĐHoàn\Code\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\System.Threading.Tasks.Extensions.dll
+F:\2. Học kì 1 năm 4\Thực tập nhóm\Nhóm21.WEBSITEđọc truyệnonline_HTHùng_ĐĐHoàn\Code\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\System.Runtime.CompilerServices.Unsafe.dll
+F:\2. Học kì 1 năm 4\Thực tập nhóm\Nhóm21.WEBSITEđọc truyệnonline_HTHùng_ĐĐHoàn\Code\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\Model.pdb
+F:\2. Học kì 1 năm 4\Thực tập nhóm\Nhóm21.WEBSITEđọc truyệnonline_HTHùng_ĐĐHoàn\Code\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\Model.dll.config
+F:\2. Học kì 1 năm 4\Thực tập nhóm\Nhóm21.WEBSITEđọc truyệnonline_HTHùng_ĐĐHoàn\Code\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\EntityFramework.xml
+F:\2. Học kì 1 năm 4\Thực tập nhóm\Nhóm21.WEBSITEđọc truyệnonline_HTHùng_ĐĐHoàn\Code\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\EntityFramework.SqlServer.xml
+F:\2. Học kì 1 năm 4\Thực tập nhóm\Nhóm21.WEBSITEđọc truyệnonline_HTHùng_ĐĐHoàn\Code\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\PagedList.xml
+F:\2. Học kì 1 năm 4\Thực tập nhóm\Nhóm21.WEBSITEđọc truyệnonline_HTHùng_ĐĐHoàn\Code\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\PagedList.Mvc.xml
+F:\2. Học kì 1 năm 4\Thực tập nhóm\Nhóm21.WEBSITEđọc truyệnonline_HTHùng_ĐĐHoàn\Code\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\System.Web.Helpers.xml
+F:\2. Học kì 1 năm 4\Thực tập nhóm\Nhóm21.WEBSITEđọc truyệnonline_HTHùng_ĐĐHoàn\Code\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\System.Web.Mvc.xml
+F:\2. Học kì 1 năm 4\Thực tập nhóm\Nhóm21.WEBSITEđọc truyệnonline_HTHùng_ĐĐHoàn\Code\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\System.Web.Optimization.xml
+F:\2. Học kì 1 năm 4\Thực tập nhóm\Nhóm21.WEBSITEđọc truyệnonline_HTHùng_ĐĐHoàn\Code\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\System.Web.Razor.xml
+F:\2. Học kì 1 năm 4\Thực tập nhóm\Nhóm21.WEBSITEđọc truyệnonline_HTHùng_ĐĐHoàn\Code\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\System.Web.WebPages.xml
+F:\2. Học kì 1 năm 4\Thực tập nhóm\Nhóm21.WEBSITEđọc truyệnonline_HTHùng_ĐĐHoàn\Code\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\System.Web.WebPages.Deployment.xml
+F:\2. Học kì 1 năm 4\Thực tập nhóm\Nhóm21.WEBSITEđọc truyệnonline_HTHùng_ĐĐHoàn\Code\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\System.Web.WebPages.Razor.xml
+F:\2. Học kì 1 năm 4\Thực tập nhóm\Nhóm21.WEBSITEđọc truyệnonline_HTHùng_ĐĐHoàn\Code\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\Newtonsoft.Json.xml
+F:\2. Học kì 1 năm 4\Thực tập nhóm\Nhóm21.WEBSITEđọc truyệnonline_HTHùng_ĐĐHoàn\Code\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\Antlr3.Runtime.pdb
+F:\2. Học kì 1 năm 4\Thực tập nhóm\Nhóm21.WEBSITEđọc truyệnonline_HTHùng_ĐĐHoàn\Code\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\2. Học kì 1 năm 4\Thực tập nhóm\Nhóm21.WEBSITEđọc truyệnonline_HTHùng_ĐĐHoàn\Code\WebsiteTruyenOnline\WebsiteTruyenOnline\obj\Debug\WebsiteTruyenOnline.csproj.AssemblyReference.cache
+F:\2. Học kì 1 năm 4\Thực tập nhóm\Nhóm21.WEBSITEđọc truyệnonline_HTHùng_ĐĐHoàn\Code\WebsiteTruyenOnline\WebsiteTruyenOnline\obj\Debug\WebsiteTruyenOnline.csproj.CoreCompileInputs.cache
+F:\2. Học kì 1 năm 4\Thực tập nhóm\Nhóm21.WEBSITEđọc truyệnonline_HTHùng_ĐĐHoàn\Code\WebsiteTruyenOnline\WebsiteTruyenOnline\obj\Debug\WebsiteTruyenOnline.csproj.CopyComplete
+F:\2. Học kì 1 năm 4\Thực tập nhóm\Nhóm21.WEBSITEđọc truyệnonline_HTHùng_ĐĐHoàn\Code\WebsiteTruyenOnline\WebsiteTruyenOnline\obj\Debug\WebsiteTruyenOnline.dll
+F:\2. Học kì 1 năm 4\Thực tập nhóm\Nhóm21.WEBSITEđọc truyệnonline_HTHùng_ĐĐHoàn\Code\WebsiteTruyenOnline\WebsiteTruyenOnline\obj\Debug\WebsiteTruyenOnline.pdb
+D:\TestTruyen\Code\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\WebsiteTruyenOnline.dll.config
+D:\TestTruyen\Code\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\WebsiteTruyenOnline.dll
+D:\TestTruyen\Code\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\WebsiteTruyenOnline.pdb
+D:\TestTruyen\Code\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\csc.exe
+D:\TestTruyen\Code\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\csc.exe.config
+D:\TestTruyen\Code\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\csc.rsp
+D:\TestTruyen\Code\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\csi.exe
+D:\TestTruyen\Code\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\csi.exe.config
+D:\TestTruyen\Code\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\csi.rsp
+D:\TestTruyen\Code\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\TestTruyen\Code\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\TestTruyen\Code\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\TestTruyen\Code\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\TestTruyen\Code\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\TestTruyen\Code\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\TestTruyen\Code\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\TestTruyen\Code\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\TestTruyen\Code\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\TestTruyen\Code\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\Microsoft.Managed.Core.targets
+D:\TestTruyen\Code\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\TestTruyen\Code\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\TestTruyen\Code\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\System.AppContext.dll
+D:\TestTruyen\Code\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\System.Collections.Immutable.dll
+D:\TestTruyen\Code\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\System.Console.dll
+D:\TestTruyen\Code\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\TestTruyen\Code\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\TestTruyen\Code\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\TestTruyen\Code\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\System.Globalization.Calendars.dll
+D:\TestTruyen\Code\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\System.IO.Compression.dll
+D:\TestTruyen\Code\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\TestTruyen\Code\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\System.IO.FileSystem.dll
+D:\TestTruyen\Code\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\TestTruyen\Code\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\System.Net.Http.dll
+D:\TestTruyen\Code\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\System.Net.Sockets.dll
+D:\TestTruyen\Code\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\System.Reflection.Metadata.dll
+D:\TestTruyen\Code\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\TestTruyen\Code\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\TestTruyen\Code\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\TestTruyen\Code\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\TestTruyen\Code\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\TestTruyen\Code\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\TestTruyen\Code\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\TestTruyen\Code\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\System.ValueTuple.dll
+D:\TestTruyen\Code\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\TestTruyen\Code\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\System.Xml.XmlDocument.dll
+D:\TestTruyen\Code\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\System.Xml.XPath.dll
+D:\TestTruyen\Code\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\TestTruyen\Code\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\vbc.exe
+D:\TestTruyen\Code\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\vbc.exe.config
+D:\TestTruyen\Code\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\vbc.rsp
+D:\TestTruyen\Code\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\VBCSCompiler.exe
+D:\TestTruyen\Code\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\roslyn\VBCSCompiler.exe.config
+D:\TestTruyen\Code\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\Antlr3.Runtime.dll
+D:\TestTruyen\Code\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\EntityFramework.dll
+D:\TestTruyen\Code\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\EntityFramework.SqlServer.dll
+D:\TestTruyen\Code\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\TestTruyen\Code\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\Microsoft.Web.Infrastructure.dll
+D:\TestTruyen\Code\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\Model.dll
+D:\TestTruyen\Code\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\Newtonsoft.Json.dll
+D:\TestTruyen\Code\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\PagedList.dll
+D:\TestTruyen\Code\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\PagedList.Mvc.dll
+D:\TestTruyen\Code\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\System.Web.Helpers.dll
+D:\TestTruyen\Code\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\System.Web.Mvc.dll
+D:\TestTruyen\Code\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\System.Web.Optimization.dll
+D:\TestTruyen\Code\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\System.Web.Razor.dll
+D:\TestTruyen\Code\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\System.Web.WebPages.Deployment.dll
+D:\TestTruyen\Code\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\System.Web.WebPages.dll
+D:\TestTruyen\Code\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\System.Web.WebPages.Razor.dll
+D:\TestTruyen\Code\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\WebGrease.dll
+D:\TestTruyen\Code\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\Model.pdb
+D:\TestTruyen\Code\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\Model.dll.config
+D:\TestTruyen\Code\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\EntityFramework.xml
+D:\TestTruyen\Code\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\EntityFramework.SqlServer.xml
+D:\TestTruyen\Code\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\PagedList.xml
+D:\TestTruyen\Code\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\PagedList.Mvc.xml
+D:\TestTruyen\Code\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\System.Web.Helpers.xml
+D:\TestTruyen\Code\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\System.Web.Mvc.xml
+D:\TestTruyen\Code\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\System.Web.Optimization.xml
+D:\TestTruyen\Code\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\System.Web.Razor.xml
+D:\TestTruyen\Code\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\System.Web.WebPages.xml
+D:\TestTruyen\Code\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\System.Web.WebPages.Deployment.xml
+D:\TestTruyen\Code\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\System.Web.WebPages.Razor.xml
+D:\TestTruyen\Code\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\Newtonsoft.Json.xml
+D:\TestTruyen\Code\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\Antlr3.Runtime.pdb
+D:\TestTruyen\Code\WebsiteTruyenOnline\WebsiteTruyenOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\TestTruyen\Code\WebsiteTruyenOnline\WebsiteTruyenOnline\obj\Debug\WebsiteTruyenOnline.csproj.AssemblyReference.cache
+D:\TestTruyen\Code\WebsiteTruyenOnline\WebsiteTruyenOnline\obj\Debug\WebsiteTruyenOnline.csproj.CoreCompileInputs.cache
+D:\TestTruyen\Code\WebsiteTruyenOnline\WebsiteTruyenOnline\obj\Debug\WebsiteTruyenOnline.csproj.CopyComplete
+D:\TestTruyen\Code\WebsiteTruyenOnline\WebsiteTruyenOnline\obj\Debug\WebsiteTruyenOnline.dll
+D:\TestTruyen\Code\WebsiteTruyenOnline\WebsiteTruyenOnline\obj\Debug\WebsiteTruyenOnline.pdb
